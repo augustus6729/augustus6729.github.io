@@ -1,0 +1,4 @@
+baseURL = 'https://locus-augustus.github.io'
+languageCode = 'en-us'
+title = 'Locus Augusuts'
+theme = 'risotto'
